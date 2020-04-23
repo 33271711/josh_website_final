@@ -52,7 +52,7 @@
     </head>
 
 <body>
-    <header class="container-fluid herobg">
+    <header class="container-fluid small_herobg">
     <nav class="navbar">
         <div class="container-fluid">
             <div class="navbar-header">
