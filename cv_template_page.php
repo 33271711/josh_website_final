@@ -1,6 +1,6 @@
 <?php
     /*
-    Template Name: CV
+    Template Name: CV page
     */
 ?>
 
