@@ -51,7 +51,7 @@
 
     </head>
 
-<body>
+<body> 
     <header class="container-fluid smallherobg">
     <nav class="navbar">
         <div class="container-fluid">
